@@ -15,6 +15,6 @@ public class HomeLoan {
 	 }
      @Test
 	 void personalLoanSanction() {
-		 System.out.println("you are eligible for personal loan");
+		 System.out.println(" hello you are eligible for personal loan");
 	 }
 }
