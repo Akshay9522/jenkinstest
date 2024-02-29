@@ -6,6 +6,8 @@ public class HomeLoan {
      @Test
 	 void homeLoanEligibility() {
 		 System.out.println("you are eligible");
+		 System.out.println("Test");
+
 	 }
      @Test
 	 void homeLoanSanction() {
