@@ -13,4 +13,8 @@ public class HomeLoan {
 	 void homeLoanSanction() {
 		 System.out.println("Congratulation");
 	 }
+     @Test
+	 void personalLoanSanction() {
+		 System.out.println("you are eligible for personal loan");
+	 }
 }
